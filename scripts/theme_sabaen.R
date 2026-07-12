@@ -1,8 +1,4 @@
 # SABAEN house style for analytical figures.
-# Minimalist, Tufte-inspired: small multiples, dotted y-grid, no axis lines,
-# charcoal data ink, gold reserved for the story accent. Palette is
-# CVD-validated (adjacent-pair dE ~50); light golds fail 3:1 contrast on the
-# paper for thin marks - use GOLD_DEEP for marks, GOLD only for fills/shading.
 
 suppressWarnings(suppressMessages({
   library(ggplot2); library(sysfonts); library(showtext)
