@@ -66,7 +66,7 @@ fig1 <- ggplot() +
                          "each database pointed to a plateau;\n2023–25 broke ",
                          "above it."),
        caption = sabaen_caption("Fragrantica, Parfumo, Aromo",
-                                paste0("Curves fitted on 1995–2022 (grey); ",
+                                paste0("Curves fitted on 1995–2022 (green); ",
                                        "dashed = that trajectory, continued"))) +
   theme_sabaen(fonts = FONTS)
 
