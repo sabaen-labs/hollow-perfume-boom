@@ -80,7 +80,7 @@ quoted in the article.
 
 The launch counts were read from the public release-year listings of the
 three databases in July 2026. This repository distributes the resulting
-aggregate counts only; it contains no collection code.
+aggregate counts only.
 
 Three caveats worth knowing before reusing the data:
 
