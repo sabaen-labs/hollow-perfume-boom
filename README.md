@@ -2,7 +2,7 @@
 
 Data and R code to reproduce the models, headline numbers and figures in
 [*The Hollow Perfume Boom*](https://sabaenresearch.substack.com/p/the-hollow-perfume-boom),
-issue 7 of the [SABAEN Research](https://sabaenresearch.substack.com) newsletter.
+published in the [SABAEN Research](https://sabaenresearch.substack.com) newsletter.
 
 ![Figure 1: three launch series and the 2023-25 break above trend](results/fig1_three_series_break.png)
 
