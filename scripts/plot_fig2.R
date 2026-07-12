@@ -52,8 +52,8 @@ fig2 <- ggplot(br) +
   labs(title = "The wave has names",
        subtitle = paste0("Launches per year in 2023 (open) and 2025 (filled) for ",
                          "the twenty brands that added the most.\nOrdered by ",
-                         "launches added; brands with fewer than a dozen launches ",
-                         "in a year are shown at zero."),
+                         "launches added; brands shown at zero in 2023 had fewer ",
+                         "than a dozen launches that year."),
        caption = paste0(sabaen_caption("Fragrantica"),
                         "\nThese twenty explain about a quarter of the 2023–2025 ",
                         "jump; the rest is a long tail of hundreds of small houses.")) +
